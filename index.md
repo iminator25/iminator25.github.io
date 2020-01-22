@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## About Me
 
-I am a student at the [University of British Columbia](https://www.ubc.ca/)studying Computer Science and Physics. The Computer Science department at UBC is ranked 1st in Canada and 16th globally. I am set to Graduate in May 2020. 
+I am a student at the [University of British Columbia](https://www.ubc.ca/) studying Computer Science and Physics. The Computer Science department at UBC is ranked 1st in Canada and 16th globally. I am set to Graduate in May 2020. 
 
 I was born in Calgary, AB, raised in Greenville, SC then pursued Undergraduate studes in Vancouver at UBC.  
 
