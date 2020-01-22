@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Me: Imran](./Imey.jpg =379x)
+![Me: Imran](./Imey.jpg)
 
 
 ## About Me
