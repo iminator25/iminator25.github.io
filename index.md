@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Me: Imran](https://github.com/iminator25/iminator25.github.io/blob/master/assets/images/Imey.jpg)
+![Me: Imran](./assets/images/Imey.jpg)
 
 
 ## About Me
@@ -38,7 +38,7 @@ Put a picture of the device along with the device here
 ```
 Utilized: React Native, Arduino, C, JavaScript, Python, Standard Library
 
-## Interets
+## Interests
 
 #### Machining
 
