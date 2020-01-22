@@ -56,6 +56,6 @@ Outside time is mandatory when living in a place like Vancouver BC. Seeing the v
 
 ###### Highlights
 - 1000Km Pedal Bicycle trip from Vancouver, BC to Calgary, AB
-- 3000KM Motorcycle trip from Vancouver, BC to San Francisco, CA
+- 3000Km Motorcycle trip from Vancouver, BC to San Francisco, CA
 
 
