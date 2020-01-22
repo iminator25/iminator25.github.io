@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Me: Imran](./assets/images/Imey.jpg)
+![Me: Imran](./Imey.jpg)
 
 
 ## About Me
