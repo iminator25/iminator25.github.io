@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+![Me: Imran](https://github.com/iminator25/iminator25.github.io/blob/master/assets/images/Imey.jpg)
 
 
 ## About Me
@@ -48,10 +48,4 @@ I enjoy making tools that I need and am just curious about. Below are a couple o
 
 Outside time is mandatory when living in a place like Vancouver BC. Seeing the views this place to offer is a lot of fun. Here are some pics of cool places.
 
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
