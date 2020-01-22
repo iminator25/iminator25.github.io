@@ -44,8 +44,18 @@ Utilized: React Native, Arduino, C, JavaScript, Python, Standard Library
 
 I enjoy making tools that I need and am just curious about. Below are a couple of things I have made using mainly Lathes, Drill presses, and welding. The next project is a homemade espresso machine that vastly improves on the concept of the moka pot. Plans will be posted here as soon as they are finished. 
 
+- Coffee puck tamper
+- Large dolley axel
+- Waterproof match box 
+- Lathe tool case 
+- Simple bottle opener
+
 #### Outdoor Activities
 
 Outside time is mandatory when living in a place like Vancouver BC. Seeing the views this place to offer is a lot of fun. Here are some pics of cool places.
+
+###### Highlights
+- 1000Km Pedal Bicycle trip from Vancouver, BC to Calgary, AB
+- 3000KM Motorcycle trip from Vancouver, BC to San Francisco, CA
 
 
