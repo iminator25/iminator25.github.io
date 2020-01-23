@@ -18,24 +18,64 @@ A service that was made with Java. This program takes in input such as "lookup w
 
 The Example output that I recieved for my website is: 
 ```
-post example output here 
+DNSLOOKUP> lookup www.iminator25.github.io
+
+
+Query ID     56164 www.iminator25.github.io  A --> 199.9.14.201
+Response ID: 56164 Authoritative = false
+  Answers (0)
+  Nameservers (4)
+  Additional Information (8)
+
+
+Query ID     56164 www.iminator25.github.io  A --> 65.22.162.17
+Response ID: 56164 Authoritative = false
+  Answers (0)
+  Nameservers (5)
+  Additional Information (0)
+
+
+Query ID     37944 ns-1622.awsdns-10.co.uk  A --> 199.9.14.201
+Response ID: 37944 Authoritative = false
+  Answers (0)
+  Nameservers (8)
+  Additional Information (13)
+
+
+Query ID     37944 ns-1622.awsdns-10.co.uk  A --> 43.230.48.1
+Response ID: 37944 Authoritative = false
+  Answers (0)
+  Nameservers (4)
+  Additional Information (8)
+
+
+Query ID     37944 ns-1622.awsdns-10.co.uk  A --> 205.251.199.14
+Response ID: 37944 Authoritative = true
+  Answers (1)
+  Nameservers (4)
+  Additional Information (8)
+
+
+Query ID     56164 www.iminator25.github.io  A --> 205.251.198.86
+Response ID: 56164 Authoritative = true
+  Answers (4)
+  Nameservers (8)
+  Additional Information (0)
+www.iminator25.github.io       A     3600     185.199.111.153
+www.iminator25.github.io       A     3600     185.199.110.153
+www.iminator25.github.io       A     3600     185.199.109.153
+www.iminator25.github.io       A     3600     185.199.108.153 
 ```
-Utilized: Wireshark, Java, linux, TCP, UDP, DNS
+Utilized: Wireshark, Java, linux, TCP, UDP, DNS, HTTPS
 
 #### Reaper Route - [Vancouver Decode Congestion Hackathon](https://vancouver.ca/streets-transportation/decode-congestion-hackathon.aspx)
-A service that takes in the mode of transportation that a user desires, start and destination locations, and outputs a route that is as safe as possible. This information was obtianed by using City of Vancouver traffic API and plotting how many accidents have happend on a specific route that the user would have initially taken given from google maps, then finds a new safe quick route as recomended by our algorithm.
+A service that takes in the mode of transportation that a user desires, start and destination locations, and outputs a route that is as safe as possible. This information was obtianed by using City of Vancouver traffic API and plotting how many accidents have happend on a specific route that the user would have initially taken given from google maps, then finds a new safe quick route as recomended by our algorithm. The Devpost is [here](https://devpost.com/software/sleep-sweet-uqtnox)
 
-```
-screenshot of the webpage and put on DevPost
-```
 Utilized: Heroku, JavaScript, Python, Google Cloud API, CoV traffic API
 
 #### SleepSweet - [NorthWest Hackathon 2020](https://www.nwhacks.io/)
 A hardware software combination that allows users to track thier sleep cycles as well as acts as an alarm clock. The main goal of this device is to allow people to not have their phone next to them while they sleep. This comes with a webpage that allows users to visulize different patterns in thier sleep. Check out the Devpost [here](https://devpost.com/software/sleep-sweet)
 
-```
-Put a picture of the device along with the device here
-```
 Utilized: React Native, Arduino, C, JavaScript, Python, Standard Library
 
 ## Interests
