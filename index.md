@@ -78,6 +78,11 @@ A hardware software combination that allows users to track thier sleep cycles as
 
 Utilized: React Native, Arduino, C, JavaScript, Python, Standard Library
 
+#### Johnson Noise Physics Paper
+This paper was written in an upper year Physics labratory. The focus of the paper was to charecterize Johnson Noise; a phenomenon that occurs in all circuts. It is a residuial noise in an electrical circuit that can affect very sensitive electronics. In order to detect the noise, a custom amplifier was built and python data analysis tools were used. Please note that the introduction to this paper includes some fictional information purely for delivery of the paper. 
+
+Utilized: Python, Circuit Design, Foruier Transformations, Big Data Analysis
+
 ## Interests
 
 #### Machining
