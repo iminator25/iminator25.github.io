@@ -7,7 +7,9 @@ layout: default
 
 ## About Me
 
-I am a student at the [University of British Columbia](https://www.ubc.ca/) studying Computer Science and Physics. The Computer Science department at UBC is ranked 1st in Canada and 16th globally. I am set to Graduate in May 2020. 
+I am a graduate from the [University of British Columbia](https://www.ubc.ca/) where I studied Computer Science and Physics. The Computer Science department at UBC is ranked 1st in Canada and 16th globally.
+
+Currently living in Austin, TX
 
 I was born in Calgary, AB, raised in Greenville, SC then pursued undergraduate studies in Vancouver at UBC.  
 
@@ -78,26 +80,26 @@ A hardware software combination that allows users to track thier sleep cycles as
 
 Utilized: React Native, Arduino, C, JavaScript, Python, Standard Library
 
-#### Johnson Noise Physics Paper
+#### [Johnson Noise Physics Paper](./Imey_s_Lab_1_Report.pdf)
 This paper was written in an upper year Physics labratory. The focus of the paper was to charecterize Johnson Noise; a phenomenon that occurs in all circuts. It is a residuial noise in an electrical circuit that can affect very sensitive electronics. In order to detect the noise, a custom amplifier was built and python data analysis tools were used. Please note that the introduction to this paper includes some fictional information purely for delivery of the paper. 
 
-Utilized: Python, Circuit Design, Foruier Transformations, Big Data Analysis
+Utilized: Python, Circuit Design, Fast Foruier Transformations, Data Analysis
 
 ## Interests
 
 #### Machining
 
-I enjoy making tools that I need and am just curious about. Below are a couple of things I have made using mainly Lathes, Drill presses, and welding. The next project is a homemade espresso machine that vastly improves on the concept of the moka pot. Plans will be posted here as soon as they are finished. 
+I enjoy making tools that I need and am just curious about. Below are a couple of things I have made using mainly Lathes, Drill presses, and welding. I currently work with JC Welding on the evenings creating custome steel fabrications for customers in Austin, TX. 
 
-- Coffee puck tamper
-- Large dolley axel
-- Waterproof match box 
-- Lathe tool case 
-- Simple bottle opener
+
 
 #### Outdoor Activities
 
 Outside time is mandatory when living in a place like Vancouver BC. Seeing the views this place to offer is a lot of fun. Here are some pics of cool places.
+[Banf, AB](./banf1.jpg)
+[Kenya](./Lion.JPG)
+[Whistler, BC](./ski1.jpeg)
+
 
 ###### Highlights
 - 1000Km Pedal Bicycle trip from Vancouver, BC to Calgary, AB
