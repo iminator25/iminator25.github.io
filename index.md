@@ -2,18 +2,31 @@
 layout: default
 ---
 
-![Me: Imran](./Imey.jpg)
+![Me: Imran](/assets/images/Imey.jpg)
 
 
 ## About Me
 
+Hello! 
+
+I am Imran. I like to automate things, build software tools, build physical tools/furniture, invest, ping-pong, mexican food, and being outdoors. 
+
+
 I am a graduate from the [University of British Columbia](https://www.ubc.ca/) where I studied Computer Science and Physics. The Computer Science department at UBC is ranked 1st in Canada and 16th globally.
 
-Currently living in Austin, TX
+Currently living in Austin, TX. I am enrolled in a Process Mining course right now because I find it interesting. 
 
 I was born in Calgary, AB, raised in Greenville, SC then pursued undergraduate studies in Vancouver at UBC.  
 
 ## Projects
+
+#### [Machine Learning](https://github.com/iminator25/TensorFlow)
+In this project I am trying to learn Data Science, Data Mining, and Machine Learning through analyzing data sets around the internet. The resources are endless so in this repository I am simply dipping my toes into all the tools avaialble. This way I am able to become more familiar with how ML is used industry as well as academically. I am mainly using Python and TensorFlow as I am most comforatable with Python. 
+
+#### UNO-The Game
+This has been a little project I have been wanting to make since moving to Austin. My goal is for it to be as lightweight as possible so it can run fast and efficiently on all machines. I was inspiried to create this since I cant seem to easily find and online version of UNO that is fast and doesnt require a bunch of set up. 
+![UNO logo](./UNO_Logo.svg)
+
 
 #### DNS Lookup 
 A service that was made with Java. This program takes in input such as "lookup www.google.com" from the command line and can display information about what server path the information you are receiving came through. More information about [DNS servers](https://en.wikipedia.org/wiki/Domain_Name_System). 
@@ -96,13 +109,17 @@ I enjoy making tools that I need and am just curious about. Below are a couple o
 #### Outdoor Activities
 
 Outside time is mandatory when living in a place like Vancouver BC. Seeing the views this place to offer is a lot of fun. Here are some pics of cool places.
-[Banf, AB](./banf1.jpg)
-[Kenya](./Lion.JPG)
-[Whistler, BC](./ski1.jpeg)
-
 
 ###### Highlights
 - 1000Km Pedal Bicycle trip from Vancouver, BC to Calgary, AB
 - 3000Km Motorcycle trip from Vancouver, BC to San Francisco, CA
+
+
+![Banf, AB](/assets/images/banf1.jpg)
+![Kenya](/assets/images/Lion.JPG)
+![Whistler, BC](/assets/images/ski1.jpeg)
+
+
+
 
 
