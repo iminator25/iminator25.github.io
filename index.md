@@ -32,7 +32,9 @@ This has been a little project I have been wanting to make since moving to Austi
 ![UNO logo](./UNO_Logo.svg)
 
 #### Rectanglo - Furniture
-I connected with an Austin local furniture start up to start creating custom, unique furniture with the capability to last a lifetime. I was initially contracted as helper to build the furniture using a CNC, Now I am helping the owner upgrade the CNC's electronics to increase machine output and percision. 
+I connected with an Austin local furniture start up to start creating custom, unique furniture with the capability to last a lifetime. I was initially contracted as helper to build the furniture using a CNC. I worked with the owner to upgrade the hardware and software components of the CNC to increase output by 400%.
+
+This upgrade will allow our machine to create parts precise to a thousandth of a milimeter. The increase percision and speed increase revenue for the startup. 
 ![CNC electronics](assets/images/cnc.jpg)
 
 
