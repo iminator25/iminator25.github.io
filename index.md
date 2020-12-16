@@ -33,7 +33,7 @@ This has been a little project I have been wanting to make since moving to Austi
 
 #### Rectanglo - Furniture
 I connected with an Austin local furniture start up to start creating custom, unique furniture with the capability to last a lifetime. I was initially contracted as helper to build the furniture using a CNC, Now I am helping the owner upgrade the CNC's electronics to increase machine output and percision. 
-![CNC electronics]
+![CNC electronics](assets/images/cnc.jpg)
 
 
 #### DNS Lookup 
@@ -115,7 +115,7 @@ I enjoy making tools that I need and am just curious about. Below are a couple o
 #### Process Mining
 
 I am in the process of taking an online course learning about at business tactic called process mining. It involves breaking down a buisness process into its fundamental pieces and analyzing it algorithmically. With a visual breakdown humans can better interpret it. An understanding of every single piece of a process is beneficial for any company as it will allow them to cut down on delays or allocate resources where necessary. An example of one of the processes I analyzed is shown below.
-![Process mining example]
+![Process mining example](assets/images/pm.png)
 
 #### Outdoor Activities
 
