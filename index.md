@@ -23,9 +23,17 @@ I was born in Calgary, AB, raised in Greenville, SC then pursued undergraduate s
 #### [Machine Learning](https://github.com/iminator25/TensorFlow)
 In this project I am trying to learn Data Science, Data Mining, and Machine Learning through analyzing data sets around the internet. The resources are endless so in this repository I am simply dipping my toes into all the tools avaialble. This way I am able to become more familiar with how ML is used industry as well as academically. I am mainly using Python and TensorFlow as I am most comforatable with Python. 
 
+#### Go Projects
+As a way to pass my time during the qurentine I have been increasing my Golang skills. I have been working through a couple of programs to gain a better understanding on the advantages of using Go. Some examples of this include creating a program that uses Go Routines to synchronsly complete a command. I am in the process of completing a 
+![Go gopher]
+
 #### UNO-The Game
 This has been a little project I have been wanting to make since moving to Austin. My goal is for it to be as lightweight as possible so it can run fast and efficiently on all machines. I was inspiried to create this since I cant seem to easily find and online version of UNO that is fast and doesnt require a bunch of set up. 
 ![UNO logo](./UNO_Logo.svg)
+
+#### Rectanglo - Furniture
+I connected with an Austin local furniture start up to start creating custom, unique furniture with the capability to last a lifetime. I was initially contracted as helper to build the furniture using a CNC, Now I am helping the owner upgrade the CNC's electronics to increase machine output and percision. 
+![CNC electronics]
 
 
 #### DNS Lookup 
@@ -104,7 +112,10 @@ Utilized: Python, Circuit Design, Fast Foruier Transformations, Data Analysis
 
 I enjoy making tools that I need and am just curious about. Below are a couple of things I have made using mainly Lathes, Drill presses, and welding. I currently work with JC Welding on the evenings creating custome steel fabrications for customers in Austin, TX. 
 
+#### Process Mining
 
+I am in the process of taking an online course learning about at business tactic called process mining. It involves breaking down a buisness process into its fundamental pieces and analyzing it algorithmically. With a visual breakdown humans can better interpret it. An understanding of every single piece of a process is beneficial for any company as it will allow them to cut down on delays or allocate resources where necessary. An example of one of the processes I analyzed is shown below.
+![Process mining example]
 
 #### Outdoor Activities
 
